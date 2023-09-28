@@ -1,0 +1,60 @@
+[33mcommit 10032a8e22d13e0599900d9698a5631da893cbe7[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 18:32:11 2023 +0200
+
+    Login raro
+
+[33mcommit a82077c7ca9fa1d4fd4b97412332492544a652ca[m
+Merge: 4953dbb 7f4cbe1
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 18:28:15 2023 +0200
+
+    Merge branch 'main' into login
+
+[33mcommit 7f4cbe1ba972da6ed19c931ce3cbf531c6fdfe07[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 18:19:56 2023 +0200
+
+    Git 3 v2
+
+[33mcommit 4953dbb40759eae151922383e6c84da02fecdb23[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 18:12:27 2023 +0200
+
+    Login
+
+[33mcommit d724579c1fe9fc38456197542579077b974df797[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 18:00:38 2023 +0200
+
+    Este es mi quinto commit
+
+[33mcommit 3f169777800330f2a684984c1fee9d89e5f6e9cb[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 04:50:18 2023 +0200
+
+    Se actualiza el texto de nuevo
+
+[33mcommit d92a20916be1cee6d2028b0411ca516a3fa78a08[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 04:41:01 2023 +0200
+
+    Se añade el .gitignore
+
+[33mcommit a2087c20cb4a8b01bce4733b28e26b1044e1c1f2[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 04:31:23 2023 +0200
+
+    Se actualiza el texto del print
+
+[33mcommit a2132ad5029043e7e8b565f7b997d18e193bc1ab[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 04:24:45 2023 +0200
+
+    Este es mi segundo commit
+
+[33mcommit 60a3b539362fbaffeea7e291d643cd4330d9cce4[m
+Author: Nikit88nline <nikit88nline@gmail.com>
+Date:   Thu Sep 28 04:19:11 2023 +0200
+
+    Este es mi primer commit
